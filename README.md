@@ -3,7 +3,7 @@
 This application shows national parks in the US.
 This is extended and final version of  National Park Finder-3.
 
-# Featurs:
+# Features:
   - User can zoom in to his/her current location and zoom out of the current location to see all annotations with provided two buttons.
   - Map can be seen in three types standard, satellite and hybrid.
   - User can click on the pin of any park shown on the map which will show name of the national park and state where the park is located.
