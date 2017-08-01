@@ -1,6 +1,6 @@
 # National Park Finder-4
 
-This application shows national parks in the US.
+This iOS application shows national parks in the US.
 This is extended and final version of  National Park Finder-3.
 
 # Features:
